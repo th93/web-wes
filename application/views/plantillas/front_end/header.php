@@ -12,7 +12,7 @@
         <header>
             <section class="contenedor">
                 <h1><img src="<? echo base_url(); ?>assets/img/levis.png" width="200px" height="100px"/></h1>
-                <p>Tienda Oficial España</p>
+                <p>Tienda Oficial Levis España</p>
             </section>
         </header>
         <nav>
