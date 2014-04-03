@@ -1,0 +1,17 @@
+[10-Mar-2014 13:41:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /var/www/aplicacion/application/views/index.php on line 15
+[10-Mar-2014 13:41:47 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /var/www/aplicacion/application/views/index.php on line 15
+[10-Mar-2014 18:20:26 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /var/www/aplicacion/application/controllers/productos.php on line 14
+[10-Mar-2014 22:38:06 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /var/www/aplicacion/application/controllers/productos.php on line 27
+[10-Mar-2014 22:42:07 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /var/www/aplicacion/application/controllers/productos.php on line 27
+[11-Mar-2014 00:14:01 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /var/www/aplicacion/application/controllers/home.php on line 13
+[11-Mar-2014 00:14:02 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /var/www/aplicacion/application/controllers/home.php on line 13
+[11-Mar-2014 17:51:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /var/www/aplicacion/application/controllers/home.php on line 39
+[11-Mar-2014 18:53:53 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:54:05 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:54:49 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:54:50 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:54:52 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:55:23 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:55:24 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 18:55:26 UTC] PHP Fatal error:  Call to a member function mostrar_detalle_articulo() on a non-object in /var/www/aplicacion/application/controllers/home.php on line 38
+[11-Mar-2014 22:28:26 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /var/www/aplicacion/application/views/front_end/detalle.php on line 3

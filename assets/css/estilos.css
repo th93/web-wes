@@ -1,0 +1,231 @@
+body {
+    margin: 0;
+    font-family: "Helvetica";
+    font-size: 14px;
+}
+table{
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+tr{
+    border-radius: 10px;
+    text-align:center;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.contenedor {
+    width: 1100px;
+    margin: 0 auto;
+}
+header {
+    background: url('../img/fondo.jpg');
+    background-size: cover;
+    color: hsl(0,0%,100%);
+    height: 200px;
+}
+header .contenedor {
+    padding-top: 40px;
+}
+header h1 {
+    font-size: 70px;
+    margin: 0;
+    font-weight: 500;
+}
+header p {
+    font-size: 20px;
+    margin: 0;
+}
+nav {
+    background: #626262;
+    height: 49px;
+    margin-bottom: 30px;
+}
+nav ul {
+    width: auto;
+    height: 48px;
+    position:absolute;
+    list-style: none;
+    float: left;
+    padding: 0;
+    margin:0 auto;
+}
+nav ul li {
+    width: 100px;
+    height: 48px;
+    position: relative;
+    float: left;
+    background-color: #626262;
+    margin: 0 auto;
+}
+nav ul li:hover{
+    background-color: #A50716;
+}
+nav ul li:first-of-type {
+    margin-left: 0;
+}
+nav ul li a {
+    color: #FFF;
+    width:100%;
+    text-decoration: none;
+    display: block;
+    line-height: 19px;
+    position: absolute;
+    top: 30%;
+    left: center;
+    text-align: center;
+    margin: 0 auto;
+}
+nav ul li a:hover {
+    color: #FFF;
+    text-decoration: none;
+}
+aside {
+    width: 280px;
+    float: left;
+    background: hsl(264,33%,97%);
+    border-radius: 5px;
+    margin-right: 20px;
+}
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+aside ul li {
+    font-size: 13px;
+    line-height: 25px;
+}
+/*aside li:not(:first-of-type):hover {
+    background: hsl(264,33%,90%);
+}*/
+aside ul li:first-of-type {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: hsl(264,34%,36%);
+    padding-left: 30px;
+}
+aside ul li a {
+    color: hsl(260,7%,45%);
+    text-decoration: none;
+    display: block;
+    padding-left: 50px;
+}
+aside ul li a:hover {
+    text-decoration: none;
+}
+.contenido {
+    min-width: 1100px;
+    width: 100%;
+    height: 100%;
+    float: left;
+/*    background: hsl(264,33%,97%);*/
+    border-radius: 5px;
+    margin:0 auto;
+}
+.contenido article {
+    padding: 15px 30px;
+    text-align: justify;
+}
+.contenido article h2 {
+    margin-top: 0;
+}
+footer {
+    width: 100%;
+    height: 100px;
+    top-bottom: 0px;
+    position: relative;
+    background: #000;
+    clear: both;
+    color: #626262;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 13px;
+}
+footer a:hover {
+    color: hsl(0,0%,100%);
+    text-decoration: underline;
+}
+.articulos{
+    width: auto;
+    height: 150px;
+    border-radius: 30px;
+    position:relative;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    background-color: #626262;
+    color: #FFF;
+}
+.articulos p{
+    padding: 10px;
+}
+.titlearticulo h2{
+    left:20px;
+    position:relative;
+
+}
+.titlearticulo{
+    width: 50%;
+    height: auto;
+    left: -10px;
+    position:relative; 
+    border-radius:0px 10px 10px 0px;
+    background-color: #8c0016;
+}
+.fpubli{
+    left: 30px;
+    top: 5px;
+    position:relative;
+}
+
+/* -------------- estilos vista detalle ------------------- */
+.titledetalle{
+    width: 80%;
+    height: 35px;
+    left: 5%;
+    position:relative;
+    margin:0 auto;
+    color: #fff;
+    background-color: #A50716;
+    text-align: center;
+}
+.cont_articulo{
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+    left: 15%;
+    position: relative;
+    background-color: #626262;
+    color: #fff;
+}
+.texto_articulo{
+    top:30px;
+    margin-left:15px;
+    position:relative;
+}
+.texto_articulo article{
+    margin-bottom: 40px;
+}
+.imgart{
+    width:100%;
+    height:auto;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.fpublidiv{
+    width: 50%;
+    height: 30px;
+    left: -30px;
+    position:relative; 
+    border-radius:0px 10px 10px 0px;
+    background-color: #8c0016;
+}
+/*------------------------------------------*/

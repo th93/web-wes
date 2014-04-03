@@ -1,0 +1,24 @@
+/* Estilos para el carrito de compras */
+.carrito {
+    width: 100%;
+    border-spacing: 0;
+}
+.carrito th, .carrito td {
+    padding: 10px 0;
+    border: 1px solid hsl(0,0%,50%);
+}
+.carrito tr td:first-child {
+    padding-left: 20px;
+}
+.carrito tr:not(:last-child) td:nth-child(2), .carrito tr td:nth-child(4) {
+    text-align: right;
+    padding-right: 10px;
+}
+.carrito tr:not(:last-child) td:nth-child(3) {
+    text-align: center;
+}
+.carrito tr:last-child td:nth-child(2), .carrito tr:last-child td:last-child {
+    text-align: right;
+    padding-right: 10px;
+    font-weight: bold;
+}
